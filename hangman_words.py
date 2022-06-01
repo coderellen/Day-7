@@ -211,5 +211,5 @@ word_list = [
 'zilch', 
 'zipper', 
 'zodiac', 
-'zombie', 
+'zombie', 'Zoo' 
 ]
